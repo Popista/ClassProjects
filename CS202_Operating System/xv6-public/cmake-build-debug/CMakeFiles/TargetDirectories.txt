@@ -1,0 +1,3 @@
+/Users/yifeilai/Courses/AOS/xv6-public/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yifeilai/Courses/AOS/xv6-public/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yifeilai/Courses/AOS/xv6-public/cmake-build-debug/CMakeFiles/xv6_public.dir
