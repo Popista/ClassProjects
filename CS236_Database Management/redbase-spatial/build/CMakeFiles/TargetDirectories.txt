@@ -1,0 +1,11 @@
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/dbcreate.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/rebuild_cache.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/redbase.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/parser.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/sm.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/ix.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/edit_cache.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/ql.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/rm.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/dbdestroy.dir
+/Users/yifeilai/Courses/DBMS/redbase-spatial/build/CMakeFiles/pf.dir

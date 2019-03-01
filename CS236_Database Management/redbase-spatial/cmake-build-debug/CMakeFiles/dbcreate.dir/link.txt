@@ -1,0 +1,1 @@
+g++   -std=c++11 -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/dbcreate.dir/src/dbcreate.cc.o  -o dbcreate libpf.a librm.a libsm.a libql.a libix.a libparser.a librm.a libsm.a libql.a libix.a libparser.a libpf.a 
